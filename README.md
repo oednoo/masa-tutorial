@@ -19,9 +19,9 @@ https://github.com/schultetwin1/masa-tutorial.git"
 
 2. Add your name to the file named "passed.txt" by simply editing that file.
 
-3. Add a new file named "<your name>.txt"
+3. Add a new file named "your name.txt"
 
-4. Add that new file to the repo using the command "git add <your name>.txt"
+4. Add that new file to the repo using the command "git add your name.txt"
 
 5. Commit your changes by issuing the following command "git commit -a"
 
