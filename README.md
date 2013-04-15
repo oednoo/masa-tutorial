@@ -14,7 +14,8 @@ Follow this tutorial to set up git on your computer https://help.github.com/arti
 
 If you have any questions, ask me
 
-1. Fork Me - Clone this repo on to your machine so that you have the files locally on your machine
+1. Fork Me - Clone this repo on to your machine so that you have the files locally on your machine "git clone
+https://github.com/schultetwin1/masa-tutorial.git"
 
 2. Add your name to the file named "passed.txt" by simply editing that file.
 
